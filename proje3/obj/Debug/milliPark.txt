@@ -1,0 +1,48 @@
+Yozgat Çamlığı Millî Parkı;Yozgat;5.02.1958;517
+Karatepe - Aslantaş Milli Parkı;Osmaniye;29.05.1958;4,143
+Soğuksu Milli Parkı;Ankara;19.02.1959;1,186
+Kuşcenneti Milli Parkı;Balıkesir;27.07.1959;17,058
+Uludağ Milli Parkı;Bursa;20.09.1961;13,024
+Yedigöller Milli Parkı;Bolu;29.04.1965;1,623
+Dilek Yarımadası-Büyük Menderes Deltası Millî Parkı;Aydın;19.05.1966;27,598
+Spil Dağı Milli Parkı;Manisa;22.04.1968;6,801
+Kızıldağ Milli Parkı;Isparta;9.05.1969;80,200
+Güllük Dağı Milli Parkı;Antalya;3.11.1970;6,700
+Kovada Gölü Milli Parkı;Isparta;3.11.1970;6,551
+Munzur Vadisi Milli Parkı;Tunceli;21.12.1971;42,674
+Beydağları Sahil Milli Parkı;Antalya;16.03.1972;31,166
+Köprülü Kanyon Milli Parkı;Antalya;12.12.1973;47,473
+Ilgaz Dağı Milli Parkı;Kastamonu;2.06.1976;1,118
+Başkomutan Tarihi Milli Parkı;Afyonkarahisar;8.11.1981;34,834
+Altındere Vadisi Milli Parkı;Trabzon;9.09.1987;4,468
+Boğazköy-Alacahöyük Milli Parkı;Çorum;21.09.1988;2,600
+Nemrut Dağı Milli Parkı;Adıyaman;7.12.1988;13,827
+Beyşehir Gölü Milli Parkı;Konya;11.01.1993;86,855
+Kazdağı Milli Parkı;Balıkesir;17.04.1994;20,935
+Altınbeşik Mağarası Milli Parkı;Antalya;31.08.1994;1,147
+Hatila Vadisi Milli Parkı; Artvin;31.08.1994;16,944
+Karagöl-Sahara Milli Parkı;Artvin;31.08.1994;3,251
+Kaçkar Dağları Milli Parkı;Rize;31.08.1994;52,970
+Aladağlar Milli Parkı;Niğde;21.04.1995;55,064
+Marmaris Milli Parkı;Muğla;8.03.1996;29,206
+Saklıkent Milli Parkı;Muğla;6.06.1996;16,43
+Troya Tarihi Milli Parkı;Çanakkale;7.11.1996;13,517
+Honaz Dağı Milli Parkı;Denizli;21.04.1998;9,429
+Küre Dağları Milli Parkı;Bartın,Kastamonu;7.07.2000;37,753
+Sarıkamış-Allahuekber Dağları Milli Parkı;Kars;19.10.2004;22,520
+Ağrı Dağı Milli Parkı;Ağrı;17.11.2004;88,015
+Gala Gölü Milli Parkı;Edirne;5.03.2005;6,087
+Sultansazlığı Milli Parkı;Kayseri;17.03.2006;24,358
+Tek Tek Dağları Milli Parkı;Şanlıurfa;29.05.2007;19,335
+İğneada Longoz Ormanları Milli Parkı;Kırklareli;13.11.2007;3,155
+Yumurtalık Lagünü Milli Parkı;Adana;6.12.2008;16,980
+Nene Hatun Tarihî Milli Parkı;Erzurum;6.06.2009;387
+Sakarya Meydan Muharebesi Tarihi Milli Parkı;Ankara;8.02.2015;13,850
+Kop Dağı Müdafaası Tarihî Milli Parkı;Bayburt;15.11.2016;6,335
+Malazgirt Meydan Muharebesi Tarihi Milli Parkı;Muş;17.03.2018;238
+İstiklâl Yolu Tarihî Milli Parkı;Kastamonu;2.11.2018;235
+Botan Vadisi Millî Parkı;Siirt;15.08.2019;11,384
+Hakkari Cilo ve Sat Dağları Milli Parkı;Hakkari;26.09.2020;27,500
+Sarıçalı Dağı Milli Parkı;Ankara;28.10.2021;1,024
+Derebucak Çamlık Mağaraları Milli Parkı;Konya;7.06.2022;1,147
+Abant Gölü Milli Parkı;Bolu;10.06.2022;1,262
